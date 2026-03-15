@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ram07791/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ram07791/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ram07791/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/ram07791/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/ram07791/leetcode/tree/master/0496-next-greater-element-i) |
 | [0900-reordered-power-of-2](https://github.com/ram07791/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/ram07791/leetcode/tree/master/0940-fruit-into-baskets) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ram07791/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ram07791/leetcode/tree/master/0125-valid-palindrome) |
 | [0402-remove-k-digits](https://github.com/ram07791/leetcode/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/ram07791/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ram07791/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ram07791/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ram07791/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ram07791/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ram07791/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/ram07791/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/ram07791/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/ram07791/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ram07791/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ram07791/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
