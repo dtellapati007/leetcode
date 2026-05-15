@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ram07791/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ram07791/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ram07791/leetcode/tree/master/0342-power-of-four) |
+| [0593-valid-square](https://github.com/ram07791/leetcode/tree/master/0593-valid-square) |
 | [0679-24-game](https://github.com/ram07791/leetcode/tree/master/0679-24-game) |
 | [0900-reordered-power-of-2](https://github.com/ram07791/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ram07791/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -410,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/ram07791/leetcode/tree/master/0901-online-stock-span) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/ram07791/leetcode/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
