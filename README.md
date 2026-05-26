@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ram07791/leetcode/tree/master/0125-valid-palindrome) |
 | [0402-remove-k-digits](https://github.com/ram07791/leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/ram07791/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1021-remove-outermost-parentheses](https://github.com/ram07791/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ram07791/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ram07791/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ram07791/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ram07791/leetcode/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/ram07791/leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/ram07791/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1021-remove-outermost-parentheses](https://github.com/ram07791/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ram07791/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2104-sum-of-subarray-ranges](https://github.com/ram07791/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Segment Tree
