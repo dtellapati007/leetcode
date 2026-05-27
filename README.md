@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/ram07791/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ram07791/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ram07791/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1903-largest-odd-number-in-string](https://github.com/ram07791/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3830-find-closest-person](https://github.com/ram07791/leetcode/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ram07791/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ram07791/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ram07791/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1903-largest-odd-number-in-string](https://github.com/ram07791/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ram07791/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ram07791/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3396-valid-word](https://github.com/ram07791/leetcode/tree/master/3396-valid-word) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ram07791/leetcode/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/ram07791/leetcode/tree/master/0402-remove-k-digits) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ram07791/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1903-largest-odd-number-in-string](https://github.com/ram07791/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ram07791/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/ram07791/leetcode/tree/master/2689-rearranging-fruits) |
 ## Sorting
