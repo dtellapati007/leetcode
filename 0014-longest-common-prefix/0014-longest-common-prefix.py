@@ -4,15 +4,12 @@ class Solution(object):
         :type strs: List[str]
         :rtype: str
         """
-        pref = strs[0]
-        pref_len = len(pref)
-
-        for s in strs[1:]:
-            while pref != s[0:pref_len]:
-                pref_len -= 1
-                if pref_len == 0:
-                    return ""
-                
-                pref = pref[0:pref_len]
-        
-        return pref
+        strs.sort()
+        first = strs[0]
+        last = strs[-1]
+        ans = []
+        for i in range(min(len(first),len(last))):
+            if first[i] != last[i]:
+                return "".join(ans)
+            ans.append(first[i])
+        return "".join(ans)
