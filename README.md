@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ram07791/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/ram07791/leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/ram07791/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0796-rotate-string](https://github.com/ram07791/leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ram07791/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ram07791/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ram07791/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ram07791/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/ram07791/leetcode/tree/master/0796-rotate-string) |
 ## Matrix
 |  |
 | ------- |
