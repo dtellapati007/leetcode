@@ -427,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/ram07791/leetcode/tree/master/0593-valid-square) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ram07791/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
