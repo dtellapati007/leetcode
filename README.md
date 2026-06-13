@@ -438,4 +438,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/ram07791/leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/ram07791/leetcode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/ram07791/leetcode/tree/master/0184-department-highest-salary) |
+| [0197-rising-temperature](https://github.com/ram07791/leetcode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
