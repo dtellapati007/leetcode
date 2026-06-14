@@ -440,4 +440,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/ram07791/leetcode/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/ram07791/leetcode/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/ram07791/leetcode/tree/master/0511-game-play-analysis-i) |
+| [1757-recyclable-and-low-fat-products](https://github.com/ram07791/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
